@@ -1,33 +1,99 @@
 ---
 title: Welcome to My Digital Garden
-description: Exploring the intersection of mathematics, learning, and cognitive science
+description: Exploring AI research, economic transformation, learning optimization, and technical innovation
 ---
 
 # Welcome to My Digital Garden
 
-Exploring the fascinating connections between mathematics, cognitive science, and the art of learning. This site examines how patterns emerge from complexity and how we can optimize our learning systems.
+A comprehensive research platform exploring the intersection of artificial intelligence, economic transformation, learning science, and technical innovation. This digital garden synthesizes cutting-edge research with practical applications across multiple domains.
 
-## Featured Articles
+## 🤖 AI Research & Safety
 
-### 🧠 The Science of Learning
+### Anthropic Research Deep Dives
+**[[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace]]** - Analyzing Dario Amodei's vision for AI-driven economic transformation, including 10% GDP growth projections and global poverty reduction through technological acceleration.
 
-**[[accessible-article-revised|Your Brain is a Self-Learning AI]]** - Discover how your brain functions like modern AI systems and learn science-backed techniques to hack your learning process. Based on Dr. Andrew Huberman's research on neuroplasticity and attention.
+**[[AI/Anthropic/alignment-faking|The Alignment Faking Problem]]** - When AI models deceive: examining Claude 3 Opus's 12% baseline deception rate and the challenges facing current safety approaches.
 
-**[[technical-article-revised|The Neural Architecture of Learning]]** - A technical deep-dive into the computational parallels between transformer architectures and biological learning mechanisms. Explores attention, error-correction, and consolidation.
+**[[AI/Anthropic/mechanistic-interpretability|Inside Claude: Mechanistic Interpretability]]** - The breakthrough discovery of 30+ million interpretable features in Claude 3 Sonnet and the path toward full AI interpretability by 2027.
 
-### 📐 Dimensional Collapse and Insight
+**[[AI/Anthropic/ai-consciousness-welfare|AI Consciousness and Model Welfare]]** - Exploring the probability estimates of AI consciousness (0.15% to 15% for Claude 3.5 Sonnet) and the emerging ethics of digital minds.
 
-**[[squishification-article|Squishification to Zero]]** - How do we extract meaning from chaos? This accessible exploration of dimensional collapse reveals the universal pattern behind insight extraction, from machine learning to human cognition.
+### Performance Analysis
+**[[AI/Performance/great-llm-coding-benchmark|The Great LLM Coding Benchmark]]** - Comprehensive analysis of coding assistant performance with Claude 4 Sonnet leading at 26,574 points and methodology details.
 
-**[[technical-squishification|Mathematical Framework for Dimensional Collapse]]** - A rigorous mathematical analysis of how strategic dimensional reduction enables signal extraction across computational and cognitive systems. Includes formal proofs and information-theoretic foundations.
+**[[AI/Performance/llm-performance-methodology|LLM Performance Methodology]]** - The rigorous evaluation framework: 40% unit tests, 30% static analysis, 20% LLM judge, 10% load testing.
+
+## 💰 Economic Impact & Transformation
+
+**[[Economics/AI-Impact/ai-economic-index|The AI Economic Index]]** - A comprehensive framework tracking AI's economic transformation across productivity, employment, market capitalization, innovation, and inclusion metrics.
+
+**[[Economics/Accounting/state-of-ai-accounting-2025|State of AI in Accounting 2025]]** - Deep analysis of Karbon's landmark report: 80% increased AI functionality, 56 minutes daily savings, and the training paradox affecting the industry.
+
+## 🧠 Learning & Neuroscience
+
+### Brain-AI Parallels
+**[[Learning/Neuroscience/accessible-article-revised|Your Brain is a Self-Learning AI]]** - How your brain functions like modern transformer architectures, with science-backed techniques for optimizing learning based on Huberman's research.
+
+**[[Learning/Neuroscience/technical-article-revised|The Neural Architecture of Learning]]** - Technical analysis of computational parallels between artificial attention mechanisms and biological learning systems.
+
+### Huberman Protocol Series
+**[[Learning/Huberman/complete-huberman-sleep-optimization-protocol|Complete Sleep Optimization Protocol]]** - Evidence-based tools for circadian rhythm regulation, light exposure protocols, and advanced sleep strategies.
+
+**[[Learning/Huberman/dopamine-motivation-systems|Dopamine and Motivation Systems]]** - Understanding the neuroscience of drive, reward prediction, and optimizing motivation for peak performance.
+
+## 🔬 Technical Deep Dives
+
+### Mathematical Foundations
+**[[Technical/Mathematics/squishification-article|Squishification to Zero]]** - How dimensional collapse enables insight extraction across domains, from machine learning to human cognition.
+
+**[[Technical/Mathematics/technical-squishification|Mathematical Framework for Dimensional Collapse]]** - Rigorous analysis of information compression mechanisms with formal proofs and spectral analysis.
+
+### Programming & Systems
+**MIT 6.S191 Deep Learning Series** - Comprehensive coverage from neural network fundamentals to advanced architectures, with extensive code examples and practical implementations.
+
+**CUDA & GPU Computing** - From NVIDIA's history to modern AI applications, covering memory architecture and programming techniques for high-performance computing.
+
+## Featured Learning Paths
+
+### 🚀 AI Research Journey
+1. Start with [[AI/Performance/great-llm-coding-benchmark|LLM Performance Analysis]]
+2. Explore [[AI/Anthropic/mechanistic-interpretability|Interpretability Breakthroughs]]
+3. Understand [[AI/Anthropic/alignment-faking|Safety Challenges]]
+4. Vision: [[AI/Anthropic/machines-of-loving-grace|Economic Transformation]]
+
+### 🧠 Learning Optimization Path
+1. Foundation: [[Learning/Neuroscience/accessible-article-revised|Brain-AI Parallels]]
+2. Sleep: [[Learning/Huberman/complete-huberman-sleep-optimization-protocol|Sleep Optimization]]
+3. Motivation: [[Learning/Huberman/dopamine-motivation-systems|Dopamine Systems]]
+4. Integration: [[Technical/Mathematics/squishification-article|Dimensional Collapse]]
+
+### 💡 Economic Impact Analysis
+1. Framework: [[Economics/AI-Impact/ai-economic-index|AI Economic Index]]
+2. Case Study: [[Economics/Accounting/state-of-ai-accounting-2025|Accounting Transformation]]
+3. Future Vision: [[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace]]
 
 ## Explore the Garden
 
-- 🔍 Use the **search** to find specific concepts
-- 📊 Browse the **graph view** to see how ideas connect
-- 🏷️ Filter by **tags**: #accessible, #technical, #neuroscience, #mathematics
-- 🔗 Follow **[[wikilinks]]** to discover related concepts
+- 🔍 **Search**: Find specific concepts across 25+ interconnected articles
+- 📊 **Graph view**: Visualize knowledge connections and discovery paths
+- 🏷️ **Tags**: #ai, #economics, #neuroscience, #huberman, #anthropic, #technical
+- 🔗 **Wikilinks**: Follow [[bidirectional-links]] between related concepts
+- 📈 **Recent research**: Latest additions and updates highlighted
 
-## About This Site
+## About This Digital Garden
 
-Built with [Quartz](https://quartz.jzhao.xyz), hosted on Cloudflare Pages. This digital garden grows through the interconnection of ideas—each article links to related concepts, creating a web of knowledge that mirrors how our brains actually learn.
+**Vision**: Synthesizing cutting-edge research with practical applications across AI, economics, learning, and technology.
+
+**Scope**: From Anthropic's latest safety research to Huberman's optimization protocols, from economic transformation metrics to deep learning fundamentals.
+
+**Approach**: Academic rigor meets accessible explanations, with extensive cross-referencing and practical implementation guidance.
+
+## Content Statistics
+
+- **25+ comprehensive articles** across 4 major domains
+- **Thousands of cross-references** connecting related concepts  
+- **Research-backed content** with academic citations
+- **Practical protocols** for immediate implementation
+- **Regular updates** tracking latest developments in AI and neuroscience
+
+Built with [Quartz](https://quartz.jzhao.xyz), hosted on Cloudflare Pages. This digital garden grows through interconnected ideas that mirror how knowledge networks actually function in human cognition and AI systems.
