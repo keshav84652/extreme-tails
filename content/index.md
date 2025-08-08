@@ -1,25 +1,33 @@
 ---
-title: Welcome to Your Personal Blog
+title: Welcome to My Digital Garden
+description: Exploring the intersection of mathematics, learning, and cognitive science
 ---
 
-# Welcome to Your Personal Blog
+# Welcome to My Digital Garden
 
-This is your new Quartz-powered website! You can edit this file in `content/index.md` to customize your home page.
+Exploring the fascinating connections between mathematics, cognitive science, and the art of learning. This site examines how patterns emerge from complexity and how we can optimize our learning systems.
 
-## Getting Started
+## Featured Articles
 
-- Add new posts to the `content/` folder
-- Write in Markdown with frontmatter
-- Supports [[wikilinks]] and backlinks
-- Has built-in search and graph view
+### 🧠 The Science of Learning
 
-## Features
+**[[accessible-article-revised|Your Brain is a Self-Learning AI]]** - Discover how your brain functions like modern AI systems and learn science-backed techniques to hack your learning process. Based on Dr. Andrew Huberman's research on neuroplasticity and attention.
 
-- ✨ Fast static site generation
-- 🔍 Full-text search
-- 📱 Mobile-responsive design
-- 🌙 Dark mode support
-- 📊 Interactive graph view
-- 🔗 Bidirectional links
+**[[technical-article-revised|The Neural Architecture of Learning]]** - A technical deep-dive into the computational parallels between transformer architectures and biological learning mechanisms. Explores attention, error-correction, and consolidation.
 
-Start writing your first post!
+### 📐 Dimensional Collapse and Insight
+
+**[[squishification-article|Squishification to Zero]]** - How do we extract meaning from chaos? This accessible exploration of dimensional collapse reveals the universal pattern behind insight extraction, from machine learning to human cognition.
+
+**[[technical-squishification|Mathematical Framework for Dimensional Collapse]]** - A rigorous mathematical analysis of how strategic dimensional reduction enables signal extraction across computational and cognitive systems. Includes formal proofs and information-theoretic foundations.
+
+## Explore the Garden
+
+- 🔍 Use the **search** to find specific concepts
+- 📊 Browse the **graph view** to see how ideas connect
+- 🏷️ Filter by **tags**: #accessible, #technical, #neuroscience, #mathematics
+- 🔗 Follow **[[wikilinks]]** to discover related concepts
+
+## About This Site
+
+Built with [Quartz](https://quartz.jzhao.xyz), hosted on Cloudflare Pages. This digital garden grows through the interconnection of ideas—each article links to related concepts, creating a web of knowledge that mirrors how our brains actually learn.
