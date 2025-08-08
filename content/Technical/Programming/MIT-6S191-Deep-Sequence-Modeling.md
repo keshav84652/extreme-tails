@@ -2,7 +2,7 @@
 title: "MIT 6.S191: Deep Sequence Modeling - From RNNs to Transformers"
 aliases: ["Deep Sequence Modeling", "MIT 6.S191 Lecture 2", "RNNs and Transformers"]
 tags: ["deep-learning", "sequence-modeling", "rnn", "lstm", "attention", "transformer", "nlp", "mit"]
-date: 2025-08-08
+date: 2025-05-07
 description: "Comprehensive guide to sequence modeling in deep learning, covering RNNs, LSTMs, attention mechanisms, and transformers for processing sequential data like text and time series."
 series: "MIT 6.S191 Deep Learning"
 series_order: 2

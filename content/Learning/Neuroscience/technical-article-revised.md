@@ -1,6 +1,6 @@
 ---
 title: "The Neural Architecture of Learning: From Transformers to Neuroplasticity"
-date: 2024-08-08
+date: 2025-04-18
 tags:
   - neuroscience
   - machine-learning

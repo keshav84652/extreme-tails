@@ -2,7 +2,7 @@
 title: "MIT 6.S191: Convolutional Neural Networks - Deep Computer Vision"
 aliases: ["CNN Computer Vision", "MIT 6.S191 Lecture 3", "Deep Computer Vision"]
 tags: ["deep-learning", "computer-vision", "cnn", "convolution", "feature-extraction", "image-processing", "mit", "tensorflow"]
-date: 2025-08-08
+date: 2025-05-10
 description: "Comprehensive guide to Convolutional Neural Networks for computer vision, covering convolution operations, pooling, feature extraction, and modern CNN architectures."
 series: "MIT 6.S191 Deep Learning"
 series_order: 3

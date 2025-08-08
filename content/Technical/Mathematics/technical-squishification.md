@@ -1,6 +1,6 @@
 ---
 title: "Dimensional Collapse and Information Compression: A Mathematical Framework for Insight Extraction"
-date: 2024-08-08
+date: 2025-05-22
 tags:
   - mathematics
   - linear-algebra

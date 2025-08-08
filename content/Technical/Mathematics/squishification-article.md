@@ -1,6 +1,6 @@
 ---
 title: "Squishification to Zero: The Art of Pulling Insights from the Noise"
-date: 2024-08-08
+date: 2025-05-15
 tags:
   - linear-algebra
   - machine-learning

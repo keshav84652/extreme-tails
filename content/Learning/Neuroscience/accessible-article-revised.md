@@ -1,6 +1,6 @@
 ---
 title: "Your Brain is a Self-Learning AI: How to Hack Your Learning System"
-date: 2024-08-08
+date: 2025-03-14
 tags:
   - neuroscience
   - learning

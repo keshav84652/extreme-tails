@@ -1,6 +1,6 @@
 ---
 title: "Dopamine and Motivation Systems: The Neuroscience of Drive and Reward"
-date: 2025-08-08
+date: 2025-06-12
 tags:
   - dopamine
   - motivation

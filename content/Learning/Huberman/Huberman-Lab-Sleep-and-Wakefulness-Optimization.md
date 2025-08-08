@@ -2,7 +2,7 @@
 title: "Huberman Lab: Sleep and Wakefulness Optimization - The Science of Circadian Rhythms"
 aliases: ["Sleep Optimization", "Huberman Sleep Protocol", "Circadian Rhythm Science"]
 tags: ["neuroscience", "sleep", "circadian-rhythms", "huberman-lab", "adenosine", "melatonin", "cortisol", "light-exposure"]
-date: 2025-08-08
+date: 2025-07-03
 description: "Comprehensive guide to optimizing sleep and wakefulness based on Dr. Andrew Huberman's neuroscience research, covering circadian biology, light exposure protocols, and practical sleep tools."
 series: "Huberman Neuroscience"
 series_order: 1

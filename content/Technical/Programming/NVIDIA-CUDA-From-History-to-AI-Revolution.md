@@ -2,7 +2,7 @@
 title: "NVIDIA CUDA: From History to AI Revolution"
 aliases: ["CUDA History", "GPU Computing Evolution", "NVIDIA CUDA Overview"]
 tags: ["cuda", "gpu-computing", "nvidia", "parallel-computing", "ai-hardware", "heterogeneous-computing"]
-date: 2025-08-08
+date: 2025-05-29
 description: "Complete history and evolution of NVIDIA CUDA from its origins in scientific computing to powering the modern AI revolution, exploring architecture, applications, and future directions."
 series: "CUDA/GPU Computing"
 series_order: 1

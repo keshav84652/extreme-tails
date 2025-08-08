@@ -2,7 +2,7 @@
 title: "MIT 6.S191: Deep Learning Fundamentals - Neural Networks from Perceptrons to Backpropagation"
 aliases: ["Deep Learning Fundamentals", "MIT 6.S191 Lecture 1"]
 tags: ["deep-learning", "neural-networks", "machine-learning", "mit", "perceptron", "backpropagation", "tensorflow"]
-date: 2025-08-08
+date: 2025-05-03
 description: "A comprehensive guide to deep learning fundamentals based on MIT 6.S191, covering perceptrons, neural network architecture, training processes, and practical implementation."
 series: "MIT 6.S191 Deep Learning"
 series_order: 1
