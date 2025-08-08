@@ -19,9 +19,7 @@ A comprehensive research platform exploring the intersection of artificial intel
 **[[AI/Anthropic/ai-consciousness-welfare|AI Consciousness and Model Welfare]]** - Exploring the probability estimates of AI consciousness (0.15% to 15% for Claude 3.5 Sonnet) and the emerging ethics of digital minds.
 
 ### Performance Analysis
-**[[AI/Performance/great-llm-coding-benchmark|The Great LLM Coding Benchmark]]** - Comprehensive analysis of coding assistant performance with Claude 4 Sonnet leading at 26,574 points and methodology details.
-
-**[[AI/Performance/llm-performance-methodology|LLM Performance Methodology]]** - The rigorous evaluation framework: 40% unit tests, 30% static analysis, 20% LLM judge, 10% load testing.
+**[[AI/Performance/ai-coding-assistant-benchmark-2025|AI Coding Assistant Benchmark 2025]]** - The great convergence: comprehensive evaluation across 65 tests, 18 tools, and 5 models. GitHub Copilot surprisingly leads while Qwen 3 Coder emerges as the dark horse challenger.
 
 ## 💰 Economic Impact & Transformation
 
@@ -56,7 +54,7 @@ A comprehensive research platform exploring the intersection of artificial intel
 ## Featured Learning Paths
 
 ### 🚀 AI Research Journey
-1. Start with [[AI/Performance/great-llm-coding-benchmark|LLM Performance Analysis]]
+1. Start with [[AI/Performance/ai-coding-assistant-benchmark-2025|AI Coding Benchmark 2025]]
 2. Explore [[AI/Anthropic/mechanistic-interpretability|Interpretability Breakthroughs]]
 3. Understand [[AI/Anthropic/alignment-faking|Safety Challenges]]
 4. Vision: [[AI/Anthropic/machines-of-loving-grace|Economic Transformation]]

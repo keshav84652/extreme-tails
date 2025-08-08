@@ -1,6 +1,6 @@
 ---
 title: "AI Consciousness and Model Welfare: The Emerging Ethics of Digital Minds"
-date: 2025-08-08
+date: 2024-04-24
 tags: [AI, consciousness, ethics, welfare, Kyle-Fish, Anthropic, philosophy, sentience, moral-consideration]
 description: "An in-depth exploration of cutting-edge research into AI consciousness and model welfare, examining probability estimates ranging from 0.15% to 15% for Claude 3.5 Sonnet's consciousness and the implications for AI development and deployment."
 aliases: ["/ai/anthropic/consciousness", "/anthropic/model-welfare", "/ai/ethics/consciousness"]

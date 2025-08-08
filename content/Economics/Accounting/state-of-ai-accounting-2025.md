@@ -1,6 +1,6 @@
 ---
 title: "The State of AI in Accounting 2025: A Deep Dive into Karbon's Landmark Report"
-date: 2025-08-08
+date: 2025-02-24
 tags:
   - ai
   - accounting
@@ -157,7 +157,7 @@ The revolution is here. It's time to get your hands dirty.
 
 **Related Reading:**
 - [[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace: Economic Transformation Through AI]] - Broader economic implications of AI
-- [[AI/Performance/great-llm-coding-benchmark|The Great LLM Coding Benchmark]] - AI performance analysis across industries  
+- [[AI/Performance/ai-coding-assistant-benchmark-2025|AI Coding Assistant Benchmark 2025]] - AI performance analysis across industries  
 - [[Economics/AI-Impact/ai-economic-index|The AI Economic Index]] - Measuring economic transformation metrics
 
 **Key References:**

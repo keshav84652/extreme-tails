@@ -1,6 +1,6 @@
 ---
 title: "Machines of Loving Grace: Economic Transformation Through AI"
-date: 2025-08-08
+date: 2024-10-11
 tags: [AI, economics, automation, UBI, Anthropic, transformation, GDP, productivity]
 description: "An analysis of Dario Amodei's comprehensive vision for how artificial intelligence could transform the global economy, potentially delivering 10% GDP growth and lifting billions out of poverty through technological acceleration."
 aliases: ["/ai/anthropic/economic-transformation", "/anthropic/loving-grace", "/ai/economics"]

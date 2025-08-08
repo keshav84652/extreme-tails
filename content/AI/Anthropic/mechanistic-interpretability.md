@@ -1,6 +1,6 @@
 ---
 title: "Inside Claude: Mechanistic Interpretability Breakthroughs"
-date: 2025-08-08
+date: 2024-05-21
 tags: [AI, interpretability, Claude, features, mechanistic, Anthropic, neural-networks, understanding]
 description: "A comprehensive analysis of Anthropic's groundbreaking mechanistic interpretability research, revealing over 30 million interpretable features in Claude 3 Sonnet and paving the path toward fully understandable AI systems by 2027."
 aliases: ["/ai/anthropic/interpretability", "/anthropic/claude-features", "/ai/mechanistic-interpretability"]

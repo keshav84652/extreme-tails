@@ -287,7 +287,7 @@ The revolution is measurable, and it's accelerating.
 **Related Reading:**
 - [[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace]] - Amodei's vision for AI economic transformation
 - [[Economics/Accounting/state-of-ai-accounting-2025|State of AI in Accounting 2025]] - Detailed sector analysis
-- [[AI/Performance/great-llm-coding-benchmark|LLM Performance Analysis]] - Technical capabilities driving productivity
+- [[AI/Performance/ai-coding-assistant-benchmark-2025|AI Coding Assistant Benchmark 2025]] - Technical capabilities driving productivity
 
 **Data Sources:**
 - Karbon. "State of AI in Accounting 2025" (539 professional survey)
