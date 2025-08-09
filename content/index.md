@@ -3,7 +3,7 @@ title: Welcome to Extreme Tails
 description: Exploring the outliers that drive transformation - from AI breakthroughs to economic shifts, learning insights, and technical innovations
 ---
 
-Where outliers drive transformation. This research platform explores the extreme edges of artificial intelligence, economic disruption, learning science, and technical innovation. We dive deep into the breakthrough ideas that shape tomorrow's world.
+Where outliers drive transformation. This research platform explores the extreme edges of artificial intelligence, economic disruption, learning science, and technical innovation. Diving deep into the breakthrough ideas that shape tomorrow's world.
 
 ## AI Research & Safety
 
