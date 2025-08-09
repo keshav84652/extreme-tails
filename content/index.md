@@ -80,16 +80,8 @@ Where outliers drive transformation. This research platform explores the extreme
 
 **Vision**: Exploring the outliers that drive transformation - the breakthrough discoveries, edge cases, and paradigm shifts that reshape our understanding of AI, economics, learning, and technology.
 
-**Scope**: From Anthropic's latest safety research to Huberman's optimization protocols, from economic transformation metrics to deep learning fundamentals - we focus on the ideas at the extreme edges that matter most.
+**Scope**: From Anthropic's latest safety research to Huberman's optimization protocols, from economic transformation metrics to deep learning fundamentals - focusing on the ideas at the extreme edges that matter most.
 
 **Approach**: Academic rigor meets accessible explanations, with extensive cross-referencing and practical implementation guidance. Every piece dives into what makes these discoveries exceptional.
-
-## Content Statistics
-
-- **25+ comprehensive articles** across 4 major domains
-- **Thousands of cross-references** connecting related concepts  
-- **Research-backed content** with academic citations
-- **Practical protocols** for immediate implementation
-- **Regular updates** tracking latest developments in AI and neuroscience
 
 Built with [Quartz](https://quartz.jzhao.xyz), hosted on Cloudflare Pages. This digital garden grows through interconnected ideas that mirror how knowledge networks actually function in human cognition and AI systems.
