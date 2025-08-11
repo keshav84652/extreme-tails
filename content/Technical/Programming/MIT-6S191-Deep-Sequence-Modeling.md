@@ -573,13 +573,12 @@ The principles learned in sequence modeling extend far beyond natural language p
 1. **[[MIT-6S191-Convolutional-Neural-Networks|Convolutional Neural Networks]]**: Specialized architectures for spatial data
 2. **[[MIT-6S191-Deep-Generative-Modeling|Deep Generative Modeling]]**: Creating new data with neural networks
 3. **[[MIT-6S191-Deep-Reinforcement-Learning|Deep Reinforcement Learning]]**: Learning through interaction
-4. **[[CUDA Programming for AI Applications]]**: Optimizing sequence model training
+4. **[[Technical/Programming/NVIDIA-CUDA-From-History-to-AI-Revolution|NVIDIA CUDA: From History to AI Revolution]]**: Optimizing sequence model training
 
 ## Related Resources
 
-- **[[Huberman Lab - The Nervous System]]**: Biological inspiration for sequential processing
-- **[[GPU Memory Architecture for AI Workloads]]**: Hardware considerations for transformer training
-- **[[NVIDIA CUDA - From History to AI Revolution]]**: The infrastructure enabling modern sequence models
+- **[[Learning/Huberman/dopamine-motivation-systems|Dopamine and Motivation Systems]]**: Biological inspiration for sequential processing
+- **[[Technical/Programming/NVIDIA-CUDA-From-History-to-AI-Revolution|NVIDIA CUDA: From History to AI Revolution]]**: The infrastructure enabling modern sequence models
 
 ---
 

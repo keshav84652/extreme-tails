@@ -73,7 +73,7 @@ Where outliers drive transformation. This research platform explores the extreme
 - **Search**: Find specific concepts across 25+ interconnected articles
 - **Graph view**: Visualize knowledge connections and discovery paths
 - **Tags**: #ai, #economics, #neuroscience, #huberman, #anthropic, #technical
-- **Wikilinks**: Follow [[bidirectional-links]] between related concepts
+- **Wikilinks**: Follow bidirectional links between related concepts
 - **Recent research**: Latest additions and updates highlighted
 
 ## About Extreme Tails

@@ -216,11 +216,9 @@ As we stand on the threshold of the transparent AI era, the work being done toda
 
 ## Related Reading
 
-- [[The Alignment Faking Problem]] - How interpretability can help detect deceptive AI behavior
-- [[AI Consciousness and Model Welfare]] - Connections between interpretability and consciousness research
-- [[Machines of Loving Grace]] - Economic implications of interpretable AI systems
-- [[AI Safety]] - Broader frameworks for ensuring beneficial AI development through understanding
-- [[Neural Network Architectures]] - Technical foundations of the systems being interpreted
+- [[AI/Anthropic/alignment-faking|The Alignment Faking Problem]] - How interpretability can help detect deceptive AI behavior
+- [[AI/Anthropic/ai-consciousness-welfare|AI Consciousness and Model Welfare]] - Connections between interpretability and consciousness research
+- [[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace]] - Economic implications of interpretable AI systems
 
 ---
 

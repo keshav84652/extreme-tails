@@ -166,11 +166,9 @@ As we stand on the threshold of potentially the most significant economic transf
 
 ## Related Reading
 
-- [[AI Consciousness and Model Welfare]] - Exploring the ethical implications of potentially conscious AI systems
-- [[The Alignment Faking Problem]] - Understanding risks in AI behavior and alignment
-- [[Inside Claude: Mechanistic Interpretability Breakthroughs]] - Technical advances enabling safer AI development
-- [[AI Safety]] - Broader frameworks for ensuring beneficial AI outcomes
-- [[Economic Models of AI Impact]] - Alternative economic theories for AI transformation
+- [[AI/Anthropic/ai-consciousness-welfare|AI Consciousness and Model Welfare]] - Exploring the ethical implications of potentially conscious AI systems
+- [[AI/Anthropic/alignment-faking|The Alignment Faking Problem]] - Understanding risks in AI behavior and alignment
+- [[AI/Anthropic/mechanistic-interpretability|Inside Claude: Mechanistic Interpretability Breakthroughs]] - Technical advances enabling safer AI development
 
 ---
 

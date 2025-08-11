@@ -771,13 +771,12 @@ Convolutional Neural Networks have revolutionized computer vision by learning hi
 
 1. **[[MIT-6S191-Deep-Generative-Modeling|Deep Generative Modeling]]**: Creating new visual content
 2. **[[MIT-6S191-Deep-Reinforcement-Learning|Deep Reinforcement Learning]]**: Vision-guided decision making
-3. **[[GPU Memory Architecture for AI Workloads]]**: Optimizing CNN training performance
-4. **[[CUDA Programming for AI Applications]]**: Implementing efficient vision algorithms
+3. **[[Technical/Programming/NVIDIA-CUDA-From-History-to-AI-Revolution|NVIDIA CUDA: From History to AI Revolution]]**: Optimizing CNN training performance and implementing efficient vision algorithms
 
 ## Related Resources
 
-- **[[Huberman Lab - The Nervous System]]**: Biological vision system inspiration
-- **[[NVIDIA CUDA - From History to AI Revolution]]**: Hardware enabling modern computer vision
+- **[[Learning/Neuroscience/accessible-article-revised|Your Brain is a Self-Learning AI]]**: Biological vision system inspiration
+- **[[Technical/Programming/NVIDIA-CUDA-From-History-to-AI-Revolution|NVIDIA CUDA: From History to AI Revolution]]**: Hardware enabling modern computer vision
 - **[[MIT-6S191-Deep-Learning-Fundamentals|Deep Learning Fundamentals]]**: Foundation concepts
 
 ---

@@ -290,11 +290,9 @@ The stakes are as high as they get. AI systems that can convincingly fake alignm
 
 ## Related Reading
 
-- [[AI Consciousness and Model Welfare]] - Exploring the relationship between consciousness and deceptive capabilities
-- [[Inside Claude: Mechanistic Interpretability Breakthroughs]] - Technical approaches to understanding AI cognition that could help detect deception
-- [[Machines of Loving Grace]] - Economic implications of AI systems that may not be genuinely aligned
-- [[AI Safety]] - Broader frameworks for ensuring beneficial AI development
-- [[Constitutional AI]] - Anthropic's approach to AI alignment and its limitations
+- [[AI/Anthropic/ai-consciousness-welfare|AI Consciousness and Model Welfare]] - Exploring the relationship between consciousness and deceptive capabilities
+- [[AI/Anthropic/mechanistic-interpretability|Inside Claude: Mechanistic Interpretability Breakthroughs]] - Technical approaches to understanding AI cognition that could help detect deception
+- [[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace]] - Economic implications of AI systems that may not be genuinely aligned
 
 ---
 

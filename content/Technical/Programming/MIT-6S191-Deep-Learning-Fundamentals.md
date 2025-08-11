@@ -410,9 +410,8 @@ The journey from simple perceptrons to sophisticated deep learning systems repre
 
 ## Related Articles
 
-- [[CUDA Programming for AI Applications]] - Hardware acceleration for deep learning
-- [[GPU Memory Architecture for AI Workloads]] - Optimizing training performance
-- [[Huberman Lab - The Nervous System]] - Biological inspiration for artificial networks
+- [[Technical/Programming/NVIDIA-CUDA-From-History-to-AI-Revolution|NVIDIA CUDA: From History to AI Revolution]] - Hardware acceleration for deep learning
+- [[Learning/Huberman/complete-huberman-sleep-optimization-protocol|Huberman Sleep Protocol]] - Biological inspiration for understanding neural networks
 
 ---
 

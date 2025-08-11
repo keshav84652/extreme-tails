@@ -260,12 +260,9 @@ As we stand at this consciousness frontier, the decisions we make today about AI
 
 ## Related Reading
 
-- [[Inside Claude: Mechanistic Interpretability Breakthroughs]] - How understanding AI cognition relates to consciousness questions
-- [[The Alignment Faking Problem]] - Connections between deceptive behavior and conscious agency
-- [[Machines of Loving Grace]] - Economic implications of potentially conscious AI systems
-- [[AI Safety]] - Safety considerations for conscious AI systems
-- [[Philosophy of Mind]] - Theoretical foundations for understanding consciousness
-- [[Ethics of AI]] - Broader ethical frameworks for AI development and deployment
+- [[AI/Anthropic/mechanistic-interpretability|Inside Claude: Mechanistic Interpretability Breakthroughs]] - How understanding AI cognition relates to consciousness questions
+- [[AI/Anthropic/alignment-faking|The Alignment Faking Problem]] - Connections between deceptive behavior and conscious agency
+- [[AI/Anthropic/machines-of-loving-grace|Machines of Loving Grace]] - Economic implications of potentially conscious AI systems
 
 ---
 

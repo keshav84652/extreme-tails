@@ -672,15 +672,15 @@ As we look toward the future, CUDA continues evolving to meet new challenges whi
 
 ### Continue Your GPU Computing Journey
 
-1. **[[GPU Memory Architecture for AI Workloads]]**: Deep dive into memory optimization
-2. **[[CUDA Programming for AI Applications]]**: Hands-on development techniques
-3. **[[MIT-6S191-Deep-Learning-Fundamentals|MIT Deep Learning Fundamentals]]**: Understanding AI algorithms that benefit from GPU acceleration
+1. **[[Technical/Programming/MIT-6S191-Deep-Learning-Fundamentals|MIT Deep Learning Fundamentals]]**: Understanding AI algorithms that benefit from GPU acceleration
+2. **[[Technical/Programming/MIT-6S191-Convolutional-Neural-Networks|Convolutional Neural Networks]]**: Computer vision applications leveraging CUDA
+3. **[[Technical/Programming/MIT-6S191-Deep-Sequence-Modeling|Deep Sequence Modeling]]**: AI techniques enabled by GPU computing
 
 ## Related Resources
 
-- **[[Huberman Lab - The Nervous System]]**: Biological systems that inspire parallel computing architectures
-- **[[MIT-6S191-Deep-Sequence-Modeling|Deep Sequence Modeling]]**: AI techniques enabled by GPU computing
-- **[[MIT-6S191-Convolutional-Neural-Networks|Convolutional Neural Networks]]**: Computer vision applications leveraging CUDA
+- **[[Learning/Neuroscience/technical-article-revised|The Neural Architecture of Learning]]**: Biological systems that inspire parallel computing architectures
+- **[[Technical/Programming/MIT-6S191-Deep-Sequence-Modeling|Deep Sequence Modeling]]**: AI techniques enabled by GPU computing
+- **[[Technical/Programming/MIT-6S191-Convolutional-Neural-Networks|Convolutional Neural Networks]]**: Computer vision applications leveraging CUDA
 
 ---
 
